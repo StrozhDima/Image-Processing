@@ -1,0 +1,111 @@
+Excelsior JET v12.0 Evaluation 64-bit (c) Excelsior 1997,2016
+Active Java SE Version 1.8.0_121 (profile 8121)
+************************  JET v12.0 EVALUATION **************************
+*  This program cannot be used in a business, commercial, government,  *
+*  or  institutional  environment  except  for  evaluation  purposes.  *
+************************************************************************
+Make project "C:\Users\Dzmitry\IdeaProjects\ImageProcessing\out\artifacts\ImageProcessing\ImageProcessing.prj"
+Reading ImageProcessing.jar ...  22 classes
+
+Total compilable classes within classpath entries: 22
+
+------------------------  Parsing Stage  ---------------------------------------
+
+   1/22: ImageProcessing.jar:/ControllerImageProc$1.class
+   2/22: ImageProcessing.jar:/ControllerImageProc$2.class
+   3/22: ImageProcessing.jar:/ControllerImageProc$3.class
+   4/22: ImageProcessing.jar:/ControllerImageProc$4$1.class
+   5/22: ImageProcessing.jar:/ControllerImageProc$4.class
+   6/22: ImageProcessing.jar:/ControllerImageProc$5$1.class
+   7/22: ImageProcessing.jar:/ControllerImageProc$5.class
+   8/22: ImageProcessing.jar:/ControllerImageProc$6$1.class
+   9/22: ImageProcessing.jar:/ControllerImageProc$6.class
+  10/22: ImageProcessing.jar:/ControllerImageProc$7$1.class
+  11/22: ImageProcessing.jar:/ControllerImageProc$7.class
+  12/22: ImageProcessing.jar:/ControllerImageProc$8$1.class
+  13/22: ImageProcessing.jar:/ControllerImageProc$8.class
+  14/22: ImageProcessing.jar:/ControllerImageProc.class
+  15/22: ImageProcessing.jar:/Histogram.class
+  16/22: ImageProcessing.jar:/ImagePreviewPanel.class
+  17/22: ImageProcessing.jar:/ModelImageProc.class
+  18/22: ImageProcessing.jar:/MVCImageProc$1.class
+  19/22: ImageProcessing.jar:/MVCImageProc.class
+  20/22: ImageProcessing.jar:/ViewImageProc$1.class
+  21/22: ImageProcessing.jar:/ViewImageProc$2.class
+  22/22: ImageProcessing.jar:/ViewImageProc.class
+-------------------------------------------------------------------
+files: 22  errors: 0  warnings: 0  notices: 0
+
+--------------------  Inline Planning Stage  -----------------------------------
+                    
+
+-------------------------------------------------------------------
+
+------------------------  Codegen Stage  ---------------------------------------
+
+  0% done, 22/22 to go: ImageProcessing.jar:/ViewImageProc.class
+errors(0), warnings(0), notes(0); bytes(110364), time  1.17
+  4% done, 21/22 to go: ImageProcessing.jar:/ViewImageProc$2.class
+errors(0), warnings(0), notes(0); bytes(4003), time  0.02
+  9% done, 20/22 to go: ImageProcessing.jar:/ViewImageProc$1.class
+errors(0), warnings(0), notes(0); bytes(8834), time  0.03
+ 13% done, 19/22 to go: ImageProcessing.jar:/MVCImageProc.class
+errors(0), warnings(0), notes(0); bytes(3562), time  0.03
+ 18% done, 18/22 to go: ImageProcessing.jar:/MVCImageProc$1.class
+errors(0), warnings(0), notes(0); bytes(3704), time  0.57
+ 22% done, 17/22 to go: ImageProcessing.jar:/ModelImageProc.class
+errors(0), warnings(0), notes(0); bytes(24160), time  2.45
+ 27% done, 16/22 to go: ImageProcessing.jar:/ImagePreviewPanel.class
+errors(0), warnings(0), notes(0); bytes(96909), time  0.13
+ 31% done, 15/22 to go: ImageProcessing.jar:/Histogram.class
+errors(0), warnings(0), notes(0); bytes(105842), time  0.63
+ 36% done, 14/22 to go: ImageProcessing.jar:/ControllerImageProc.class
+errors(0), warnings(0), notes(0); bytes(5713), time  0.08
+ 40% done, 13/22 to go: ImageProcessing.jar:/ControllerImageProc$8.class
+errors(0), warnings(0), notes(0); bytes(4659), time  0.01
+ 45% done, 12/22 to go: ImageProcessing.jar:/ControllerImageProc$8$1.class
+errors(0), warnings(0), notes(0); bytes(4583), time  0.02
+ 50% done, 11/22 to go: ImageProcessing.jar:/ControllerImageProc$7.class
+errors(0), warnings(0), notes(0); bytes(4659), time  0.02
+ 54% done, 10/22 to go: ImageProcessing.jar:/ControllerImageProc$7$1.class
+errors(0), warnings(0), notes(0); bytes(4581), time  0.02
+ 59% done, 9/22 to go: ImageProcessing.jar:/ControllerImageProc$6.class
+errors(0), warnings(0), notes(0); bytes(4890), time  0.01
+ 63% done, 8/22 to go: ImageProcessing.jar:/ControllerImageProc$6$1.class
+errors(0), warnings(0), notes(0); bytes(8182), time  0.07
+ 68% done, 7/22 to go: ImageProcessing.jar:/ControllerImageProc$5.class
+errors(0), warnings(0), notes(0); bytes(4890), time  0.01
+ 72% done, 6/22 to go: ImageProcessing.jar:/ControllerImageProc$5$1.class
+errors(0), warnings(0), notes(0); bytes(5946), time  0.05
+ 77% done, 5/22 to go: ImageProcessing.jar:/ControllerImageProc$4.class
+errors(0), warnings(0), notes(0); bytes(4890), time  0.42
+ 81% done, 4/22 to go: ImageProcessing.jar:/ControllerImageProc$4$1.class
+errors(0), warnings(0), notes(0); bytes(8306), time  0.07
+ 86% done, 3/22 to go: ImageProcessing.jar:/ControllerImageProc$3.class
+errors(0), warnings(0), notes(0); bytes(6537), time  0.07
+ 90% done, 2/22 to go: ImageProcessing.jar:/ControllerImageProc$2.class
+errors(0), warnings(0), notes(0); bytes(4518), time  0.01
+ 95% done, 1/22 to go: ImageProcessing.jar:/ControllerImageProc$1.class
+errors(0), warnings(0), notes(0); bytes(7882), time  0.11
+Processing startup profile...
+Preparing resources for packing ...
+Processing ImageProcessing.jar ...
+Resources were successfully prepared for packing.
+-------------------------------------------------------------------
+files: 22  errors: 0  warnings: 0  notices: 0
+
+XDS Link Version 2.25.37 Copyright (c) Excelsior 1995-2017.
+No errors, no warnings
+
+Link time 0:01.16
+
+Total compilation time 0:34.10
+Startup Accelerator Helper Version 1.2 Copyright (c) Excelsior 2010-2015.
+
+Running application:
+  "C:\Users\Dzmitry\IdeaProjects\ImageProcessing\out\artifacts\ImageProcessing\ImageProcessing.exe"
+
+
+Application terminated with exit code 0
+Profile successfully hard-wired into "C:\Users\Dzmitry\IdeaProjects\ImageProcessing\out\artifacts\ImageProcessing\ImageProcessing.exe"
+

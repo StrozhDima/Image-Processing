@@ -1,0 +1,52 @@
+%%Excelsior JET v12.0 project file
+
+-jpiiproject=C:\Users\Dzmitry\IdeaProjects\ImageProcessing\out\artifacts\ImageProcessing\ImageProcessing.jpn
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-multiapp-
+-pgo+
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-javacommandline:=java -jar ImageProcessing.jar
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-jprofile=./ImageProcessing.jprof
+-main=MVCImageProc
+-outputdir=.
+-outputname=ImageProcessing
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-splash=../../../../../Desktop/drib-processing.png
+-stacklimit=900000
+-startupprofile=./ImageProcessing.startup
+-versioninfocompanyname=Strozh Dzmitry
+-versioninfofiledescription=ImageProcessing
+-versioninfolegalcopyright=Copyright \x00a9 2017 Strozh Dzmitry
+-versioninfoproductname=ImageProcessing
+-versioninfoproductversion=1.0.0.0
+
+
+
+
+!classpathentry ./ImageProcessing.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+!module ../../../../../Desktop/Paint_3D_icon (1).ico
+!module ./ImageProcessing.usg
+

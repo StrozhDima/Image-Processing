@@ -1,0 +1,47 @@
+
+-arch=amd64
+-PIC
+-jetcomponent=12.00
+-jetedition=Evaluation
+-vcode=8121
+-sys=W
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:*{exe.dir}\ImageProcessing.jar
+-config=JREHome:C:\Program Files\jet12.0-eval-amd64\bin\..\profile1.8.0_121\jre
+-config=JETProfile:8121
+-config=JETProfileName:1.8.0_121
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=C:/Users/Dzmitry/IdeaProjects/ImageProcessing/out/artifacts/ImageProcessing/ImageProcessing_jetpdb/ImageProcessing.efs
+-config=MainClass:MVCImageProc
+-config=VersionInfo:jet-1200-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.8.0_121; JET update level: 0; CPU architecture: amd64
+-name=ImageProcessing.exe
+C:\Users\Dzmitry\IdeaProjects\ImageProcessing\out\artifacts\ImageProcessing\ImageProcessing_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+
+-config=HaveSplash:1
+-config=SplashCloseOnTitle:
+-config=SplashCloseOnAWTWindow:1
+-LinkFileAsRData=LINK_SplashPicture:../../../../../Desktop/drib-processing.png
+
+
+C:\Program Files\jet12.0-eval-amd64\lib\x86\startup-exe-splash.zip
+
+-GenExceptionInfo=JR_SystemExceptionHandler
+-config=PackagingOptions:dlls=net;t2k;nio;awt;fontmanager;jpeg component_microversions=BC-0
+-ReadLinkInfo=C:\Users\Dzmitry\IdeaProjects\ImageProcessing\out\artifacts\ImageProcessing\ImageProcessing_jetpdb\reorder.li
+C:\Users\Dzmitry\IdeaProjects\ImageProcessing\out\artifacts\ImageProcessing\ImageProcessing_jetpdb\obj.zip
+-Config=RTComponent:XKRN12008121.dll
+C:\Program Files\jet12.0-eval-amd64\lib\x86\startup-rtlink.zip
+C:\Program Files\jet12.0-eval-amd64\lib\x86\import32.lib
+..\..\..\..\..\Desktop\Paint_3D_icon (1).ico
+C:\Program Files\jet12.0-eval-amd64\lib\x86\app.res
+-StrictLinkToDLL
+
+
